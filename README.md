@@ -1,8 +1,10 @@
 # React Injector
 
-A library for sharing and extending components between multiple compiled JS bundles.
+**This library should not no be used for new projects as it is essentially unmaintaied. You should instead simply use [lib/Injector](https://github.com/silverstripe/silverstripe-admin/blob/3/client/src/lib/Injector.js) in [silverstripe/admin](https://github.com/silverstripe/silverstripe-admin) instead.**
 
-__CAUTION:__ This is an extremely early alpha release. Functionality is not guaranteed, and APIs may change at any time.
+**This library is still used by the CMS 5 version of [silverstripe/mfa](https://github.com/silverstripe/silverstripe-mfa). This repository should be archived when CMS goes EOL.**
+
+A library for sharing and extending components between multiple compiled JS bundles.
 
 ### Requirements
 
